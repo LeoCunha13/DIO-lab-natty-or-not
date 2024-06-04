@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aesthetic Verse 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de um projeto onde o usuário poderá criar poemas similares a qualquer poeta que ja viveu no planeta terra.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Busquei as API´s do google (tentei AWS mas estou sem cartao de credito) que eu tinha acesso gratuito. As outras apis de geração de imagem e audio nao consegui
+acesso por questões de pagamento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este projeto é capaz de criar poemas com mudanças sutis que fazem com que os poemas criados sejam muito dificeis de serem diferenciados do original
+utilizando todas as nuances possiveis utilizadas pelos principais poetas. Além disso o projeto é capaz de responder qualquer pergunta feita pelo usuário.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Trata-se de algo que ainda precisamos nos famialiarizar pois trata-se de uma mudança exponencial no estilo de vida dos humanos. Em breve será muito dificil diferenciar chegando ao ponto de buscarmos o contato social onde é possivel pegar para ver se é de verdade. "Deus tenha piedade desse mundo"
 ```
 
 ### Exemplos e Insigths
